@@ -2,7 +2,9 @@
 I thought that it will be a fun idea to try to make something big and complicated,so I decided to make a voice assistant that works in Bulgarian, for the Bulgarian non-english speakers.
 
 ============================>Important!!!!<==============================
+
 THIS IS AN API FOR CHATGPT NOT AN ENTIRE AI
+
 The key used to make the connection between the code and the outsource model is going to be changed, because if you try to use it, I will be charged for it. The fee is low and a small family will probably have to pay a 5-10$ yearly to keep it running without an issue.
 
 YOU MUST CHANGE THE KEY IN THE CODE,SO YOU CAN USE IT!!!!!!!!!!!!!
